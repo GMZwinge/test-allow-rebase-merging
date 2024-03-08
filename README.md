@@ -2,3 +2,4 @@
 
 - Commit 1 on branch
 - Commit 2 on branch
+- Commit 3 on branch
